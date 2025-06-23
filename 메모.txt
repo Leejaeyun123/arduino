@@ -19,3 +19,4 @@ ex) #include <Arduino.h>
 
         return 0;                                   <- for(;;) 무한 루프 구조이므로 이 줄까지 도달하지 않음
     }
+VCC : + / DATA : out / GND : -
