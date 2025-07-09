@@ -1,4 +1,4 @@
-// I2C 주소값 코드
+// // I2C 주소값 코드
 
 // #include <Wire.h>
 // #include <Arduino.h>
