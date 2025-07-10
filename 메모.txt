@@ -67,7 +67,7 @@ MySQL에 연결된 상태에서 존재하는 데이터베이스 목록과 각 �
 11. ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '원하는 비밀번호';
     FLUSH PRIVILEGES;   <- 한 줄씩 입력. 소켓 인증에서 비밀번호 인증으로 전환. 로컬에서의 root 사용 용도
 
-12. mysql -u root -p -h 192.168.x.xx    <- 1~6번까지 진행 후 입력. 원격 사용 용도
+12. mysql -u root -p -h 192.168.x.xx    <- 1~6번까지 진행 후 입력. 원격에서의 root 사용 용도
 
 
 
