@@ -86,7 +86,7 @@ IF NOT EXISTS: sensor라는 데이터베이스 또는 sensor_log라는 테이블
 ● 데이터베이스 또는 테이블 삭제
 1. mysql -u root -p   <- 입력
 
-2. DROP DATABASE DB 이름 / TABLE 테이블 이름;   <- 입력. 테이블은 USE DB 이름; 실행 후 입력
+2. DROP DATABASE DB 이름 / TABLE 테이블 이름:   <- 입력. 테이블은 USE DB 이름; 실행 후 입력
 
 
 
