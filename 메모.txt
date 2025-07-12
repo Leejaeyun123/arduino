@@ -69,12 +69,20 @@ MySQL에 연결된 상태에서 존재하는 데이터베이스 목록과 각 �
 
 12. mysql -u root -p -h 192.168.x.xx    <- 1~6번까지 진행 후 입력. 원격에서의 root 사용 용도
 
+11, 12 - 1. SHOW DATABASES;     <-  입력. 존재하는 데이터베이스 목록 확인
+
+11, 12 - 2. USE DB 이름;     <-     입력. 특정 데이터베이스 선택      ex)  USE sensor;
+
+11, 12 - 3. SHOW TABLES;    <- 입력. 해당 데이터베이스에 있는 테이블 목록 확인
+
+11, 12 - 4. DESCRIBE 테이블 이름;    <- 입력. 테이블 구조 확인      ex) DESCRIBE sensor_log;
 
 
 
 
 
-. SHOW DATABASES;
+
+
 
 
 
