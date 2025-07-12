@@ -75,7 +75,7 @@ MySQL에 연결된 상태에서 존재하는 데이터베이스 목록과 각 �
 
 11, 12 - 3. SHOW TABLES;    <- 입력. 해당 데이터베이스에 있는 테이블 목록 확인
 
-11, 12 - 4. DESCRIBE 테이블 이름;    <- 입력. 테이블 구조 확인      ex) DESCRIBE sensor_log; .
+11, 12 - 4. DESCRIBE 테이블 이름;    <- 입력. 테이블 구조 확인      ex) DESCRIBE sensor_log;
 
 
 
