@@ -1,0 +1,31 @@
+GitHub
+
+● GitHub에 코드를 업로드하는 절차
+1. sudo apt update  <- 입력
+
+2. sudo apt install git  <- 입력
+
+3. git config --global user.name "Your Name"  <- 입력. "" 안에 GitHub 닉네임
+
+4. git config --global user.email "your-email@example.com"  <- 입력. "" 안에 GitHub 로그인 메일 계정 
+
+5. cd ~/...  <- 입력. 원하는 작업 디렉터리로 이동
+
+6. git init  <- 입력
+
+7. git add .  <- 입력
+
+8. git commit -m "Initial commit"  <- 입력. "" 안에 본인이 입력하고 싶은 문자
+
+9. GitHub 웹사이트 > 우측 상단 '+' 버튼 > "New repository" 클릭 후 저장소 이름 설정 후 "Create repository"
+
+10. git remote add origin https://github.com/your-username/your-repository.git  <- 입력
+
+11. git branch -M main  <- 입력
+
+12. git push -u origin main  <- 입력
+
+
+
+
+
