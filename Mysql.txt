@@ -6,7 +6,7 @@ MySQL
    VMware 내에서 돌아가는 Linux가 별도 IP (예: 192.168.x.x)를 가지고 있고, 그 안에서 MySQL이 구동되는 경우 → 원격(remote)
 
 ● 데이터베이스 및 테이블 생성 절차
-1. 파일명.sql 파일 생성 후 ex)에 있는 코드를 본인이 원하는 문자를 수정해서 입력
+1. 파일명.sql 파일 생성 후 ex)에 있는 코드를 본인이 원하는 문자로 수정해서 입력
 ex) CREATE DATABASE IF NOT EXISTS sensor;                 
     USE sensor;                                           
 
